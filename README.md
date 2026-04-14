@@ -29,7 +29,7 @@ I care about writing code that is maintainable, not just functional: clean archi
 | Project | Stack | Description |
 |---|---|---|
 | [backend-service-java](https://github.com/esrakonya/backend-service-java) | Java · Spring Boot · Kafka · Redis · K8s | Cloud-native microservices marketplace backend |
-| [BookingApp](https://github.com/esrakonya/BookingApp) | Kotlin · Jetpack Compose · Clean Architecture | Android booking application |
+| [AppointFlow](https://github.com/esrakonya/AppointFlow) | Kotlin · Jetpack Compose · Clean Architecture | Android booking application |
 
 ---
 
