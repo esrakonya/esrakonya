@@ -1,6 +1,6 @@
 # Hi, I'm Esra 👋
 
-I'm a software developer focused on building clean, well-tested, production-grade applications — across Android, backend and full-stack.
+I'm a software developer focused on building clean, well-tested, production-grade applications — across Backend, Android and Full-Stack.
 
 I care about writing code that is maintainable, not just functional: clean architecture, separation of concerns, and a safety-first testing philosophy are things I apply regardless of the stack.
 
