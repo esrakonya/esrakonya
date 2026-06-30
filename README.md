@@ -16,7 +16,7 @@ I'm currently open to full-time opportunities. My strongest areas are backend (J
 
 **Mobile** — Kotlin · Jetpack Compose · Clean Architecture · MVVM · Room DB · Kotlin Flows · Dagger Hilt
 
-**Backend** — Java 17 · Spring Boot 3.2 · Apache Kafka · Spring Security 6 · JWT · Redis · PostgreSQL · Kubernetes
+**Backend** — Java 17 · Spring Boot 3.3.1 · Apache Kafka · Spring Security 6 · JWT · Redis · PostgreSQL · Kubernetes
 
 **Frontend** — Next.js 16 · React · TypeScript · Tailwind CSS
 
